@@ -1346,11 +1346,10 @@ This is main CSS file that contains custom style rules used in this template
   height: var(--header-height);
   display: flex;
   align-items: center;
-  background-color: var(--dark-color);
   padding: 40px;
   margin-right: 60px;
   transition: 0.5s all ease-out;
-  width: 150px;
+  width: 180px;
   position: absolute;
   z-index: 1;
 }
